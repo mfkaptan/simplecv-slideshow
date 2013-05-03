@@ -10,9 +10,13 @@ Slideshow program made with SimpleCV.
 3) Write your images' names into it (per line), after that write a number for delay time.
 
 For example:
+
 [sequence]
+
 cat1.jpg=1000
+
 cat2.jpg=4000
+
 cat3.jpg=3000
 
 3) Enjoy!!!
